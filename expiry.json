@@ -1,3 +1,4 @@
 {
-  "status": "active"   // or "blocked"
+  "expiry": "2026-09-20",
+  "status": "blocked"
 }
